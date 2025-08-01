@@ -22,13 +22,12 @@ A beautiful and modern web-based music player with a sleek UI and smooth animati
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Alpha Music Player](https://alphamusicplayer.netlify.app)
 
 ## 💻 Local Development
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/NareshS24/CodeAlpha_musicplayer.git
+git clone https://github.com/NARAYANAN2125/CodeAlpha_Music_Player
 ```
 
 2. Open the project folder:
