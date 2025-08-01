@@ -60,7 +60,7 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## 👨‍💻 Author
 
-Created with ❤️ by Naresh
+Created with ❤️ by Lakshminarayanan
 
 ---
 ⭐ Star this repository if you find it helpful!
