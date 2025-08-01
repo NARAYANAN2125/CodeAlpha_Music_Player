@@ -21,7 +21,7 @@ A beautiful and modern web-based music player with a sleek UI and smooth animati
 - Google Fonts (Quicksand)
 
 ## 🚀 Live Demo
-
+https://narayanan2125.github.io/CodeAlpha_Music_Player/
 
 ## 💻 Local Development
 
